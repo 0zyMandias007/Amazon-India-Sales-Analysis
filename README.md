@@ -86,3 +86,12 @@ This analysis of Amazon India sales data reveals key patterns in product perform
 - **Monitor Ratings as Leading Indicators**  
   A 4.1 average rating is typical, but products exceeding 4.5 consistently fall into the top-selling tier—this can inform future product curation.
 
+## 💡 Inspiration
+
+Inspired by my interest in uncovering **subtle data patterns** through clean, minimal design using Excel.
+
+> _“Turning raw sales figures into impactful business insight.”_
+
+## 📬 Connect with Me
+
+**[LinkedIn](www.linkedin.com/in/edmund-boateng-yaw-4073b620b)** | **[Twitter/X](https://x.com/pipnpadlxacoplx)**
